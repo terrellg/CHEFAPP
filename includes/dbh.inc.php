@@ -3,7 +3,7 @@ ob_start();
 
 $servername ="localhost";
 $dBUsername ="id8231108_terrell";
-$dbPassword="qwerty";
+$dbPassword="NOT TELLING";
 $dbName="id8231108_loginsystem";
 
 
