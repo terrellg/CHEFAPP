@@ -13,8 +13,8 @@ require "header.php";
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUOYK_v8n2Y7O4y6jRoaI_LVo5OM8rfcI&libraries=places"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUOYK_v8n2Y7O4y6jRoaI_LVo5OM8rfcI&libraries=places"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=APIKEYI&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=APIKEY&libraries=places"></script>
     <script src="js/bootstrap.min.js"></script>
 
     <style>
@@ -233,7 +233,7 @@ padding: 6px 12px;
             });
       }
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUOYK_v8n2Y7O4y6jRoaI_LVo5OM8rfcI&libraries=places&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=APIKEY&libraries=places&callback=initMap"
         async defer></script>
   </body>
 </html>
